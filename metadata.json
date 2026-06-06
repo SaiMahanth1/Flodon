@@ -1,0 +1,6 @@
+{
+  "name": "Flodon",
+  "description": "Flodon specializing in custom AI systems, autonomous agents, and intelligent workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
